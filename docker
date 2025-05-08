@@ -1,0 +1,8 @@
+Esse arquivo seria o dockerfile para buildar o projeto?
+
+Se for, eles tem de receber o nome Dockerfile
+
+em alguns casos, vc pode separar versões de dockerfile como Dockerfile.production ou algum outro tipo, porém é bem raro
+
+
+

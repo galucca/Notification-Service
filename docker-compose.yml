@@ -1,3 +1,4 @@
+# ficou top! seria uma boa somente declarar um network para eles não ficarem rodando na default do docker
 
 services:
   mongo:
